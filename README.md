@@ -26,12 +26,6 @@ This project is a simple and responsive **CV website** built using **HTML**, **C
 
 ---
 
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (basic)**
-- **Netlify** for deployment
 
 
 
