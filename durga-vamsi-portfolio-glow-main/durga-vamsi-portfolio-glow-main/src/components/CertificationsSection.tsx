@@ -52,7 +52,7 @@ const CertificationsSection = () => {
       description: 'Presented on "Future of IoT in Smart Cities"'
     },
     {
-      title: 'VEltech Rathna',
+      title: 'Veltech Rathna',
       event: 'Curtural event',
       icon: '🏅',
       description: 'showcased leadership, work under pressure and communication skills'
